@@ -1,6 +1,6 @@
 name: TechFolios
 markdown: kramdown
-url: http://techfolios.github.io
+url: http://ArieonaDunlap.github.io
 plugins:
-  - jekyll-gist
-baseurl:
+  Title: Arieona Dunlap | Professional Portfolios 
+baseurl: ""
